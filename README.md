@@ -1,2 +1,2 @@
 # trailhead
-A repository where we collect requests for new tools, workflows or support materials to be added to the WILDS.
+This is the home of the DaSL WILDS.  Stay tuned for what's next.  
